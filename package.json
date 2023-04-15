@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-text-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bidesh <bideshbanerjee444@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdf-to-text": "^0.0.7"
+  }
+}
